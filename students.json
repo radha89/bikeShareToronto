@@ -1,0 +1,32 @@
+{
+    "groupProject":
+    {
+        "students":
+        [
+            {
+                "name": "Michael Dakin",
+                "login": "dakinm",
+                "studentNumber": "991 394 358",
+                "image": "michael.png"
+            },
+            {
+                "name": "Radha Bhachu",
+                "login": "bhambwan",
+                "studentNumber": "991 381 992",
+                "image": "radha.png"
+            },
+            {
+                "name": "Sandes DeSilva",
+                "login": "desilsan",
+                "studentNumber": "991 371 511",
+                "image": "sandes.png"
+            },
+            {
+                "name": "Srdjan Mitrovic",
+                "login": "mitrovs",
+                "studentNumber": "991 387 507",
+                "image": "srdjan.png"
+            }
+        ]
+    }
+}

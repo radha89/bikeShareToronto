@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>jQuery Mobile</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+
+    <link rel="stylesheet" href="_css/jquery.mobile.css">
+    <link rel="stylesheet" href="_css/legend.css">
+    <link rel="stylesheet" href="_css/mystyles.css">
+    <script src="https://maps.googleapis.com/maps/api/js?v=3&language=en" async defer></script>
+    <script src="_js/jquery.js"></script>
+    <script src="_js/jquery.mobile.js"></script>
+    <script src="_js/myscript.js"></script>
+    <script src="_js/Chart.js"></script>
+    <script src="_js/legend.js"></script>
+
+</head>
+<body>
+    <div data-role="page" id="home" data-theme="a">
+
+        <header data-role="header">
+            <h1 class="ui-title ui-shadow">BikeShare Toronto</h1>
+        </header>
+
+        <section class="ui-content" role="main">
+            <h2>About Us</h2>
+            <p>
+                Welcome to Bike Share Toronto. Browse our locations and see the status of available bikes, docks.
+                Once you're at the location insert the membership card or a credic card at the kiosk and unlock
+                a bike. Take the bike and explore all the wonders Toronto has to offer. Return the bike at any location
+                where there are available docks. Have fun and make sure to wear a helmet.
+            </p>
+
+            <ul id="stations" data-role="listview"
+                data-inset="true" data-filter="true">
+
+            </ul>
+        </section>
+        <footer data-role="footer">
+            <nav data-role="navbar" class="navbar">
+                <ul>
+                    <li>
+                        <a href="#myPopup0" id="p0" data-rel="popup" class="ui-btn ui-btn-inline
+                        ui-corner-all" data-position-to="origin" data-transition="fade"></a>
+                    </li>
+                    <li>
+                        <a href="#myPopup1" id="p1" data-rel="popup" class="ui-btn ui-btn-inline
+                        ui-corner-all" data-position-to="origin" data-transition="fade"></a>
+                    </li>
+                    <li>
+                        <a href="#myPopup2" id="p2" data-rel="popup" class="ui-btn ui-btn-inline
+                        ui-corner-all" data-position-to="origin" data-transition="fade"></a>
+                    </li>
+                    <li>
+                        <a href="#myPopup3" id="p3" data-rel="popup" class="ui-btn ui-btn-inline
+                        ui-corner-all" data-position-to="origin" data-transition="fade"></a>
+                    </li>
+                </ul>
+
+                <div data-role="popup" id="myPopup0" class="ui-content">
+
+                </div>
+                <div data-role="popup" id="myPopup1" class="ui-content">
+
+                </div>
+                <div data-role="popup" id="myPopup2" class="ui-content">
+
+                </div>
+                <div data-role="popup" id="myPopup3" class="ui-content">
+
+                </div>
+
+            </nav>
+        </footer>
+    </div>
+
+    <div data-role="page" id="individual" data-theme="a">
+
+
+
+        <header data-role="header">
+            <h1 class="ui-title ui-shadow">BikeShare Toronto</h1>
+            <p id="image"></p>
+        </header>
+
+
+        <section class="ui-content" role="main" style="width: 100%; height: 100%">
+            <div class="ui-grid-a ui-responsive">
+                <!-- 2 column grid -->
+                <section class="ui-block-a" id="maina">
+
+                </section>
+                <section class="ui-block-b" id="mainb">
+                <h1 class='ui title'>Location</h1>
+                <a href="#station" data-rel="popup"><img id="thumb"></a>
+                <div data-role="popup" data-overlay-theme="a" id="station">
+                <img id="fullImage">
+                </div>
+
+                </section>
+            </div>
+
+            <div role="main" class="ui-content" id="map">
+                    
+            </div>
+        </section>
+        <footer data-role="footer">
+            <nav data-role="navbar" class="navbar">
+                <ul>
+                    <li>
+                        <a href="#myPopupPop0" id="d0" data-rel="popup" class="ui-btn ui-btn-inline
+                        ui-corner-all" data-position-to="origin" data-transition="fade"></a>
+                    </li>
+                    <li>
+                        <a href="#myPopupPop1" id="d1" data-rel="popup" class="ui-btn ui-btn-inline
+                        ui-corner-all" data-position-to="origin" data-transition="fade"></a>
+                    </li>
+                    <li>
+                        <a href="#myPopupPop2" id="d2" data-rel="popup" class="ui-btn ui-btn-inline
+                        ui-corner-all" data-position-to="origin" data-transition="fade"></a>
+                    </li>
+                    <li>
+                        <a href="#myPopupPop3" id="d3" data-rel="popup" class="ui-btn ui-btn-inline
+                        ui-corner-all" data-position-to="origin" data-transition="fade"></a>
+                    </li>
+                </ul>
+
+
+                <div data-role="popup" id="myPopupPop0" class="ui-content">
+
+                </div>
+                <div data-role="popup" id="myPopupPop1" class="ui-content">
+
+                </div>
+                <div data-role="popup" id="myPopupPop2" class="ui-content">
+
+                </div>
+                <div data-role="popup" id="myPopupPop3" class="ui-content">
+
+                </div>
+             </nav>
+        </footer>
+
+    </div>
+</body>
+</html>

@@ -1,0 +1,43 @@
+.ui-icon-25yorkst:after { background-image: url("images/25yorkst.png"); background-size: 22px 22px; }
+.ui-icon-batque:after { background-image: url("images/batQue.png"); background-size: 22px 22px; }
+.ui-icon-baywel:after { background-image: url("images/bayWel.png"); background-size: 22px 22px; }
+.ui-icon-bonque:after { background-image: url("images/bonQue.png"); background-size: 22px 22px; }
+.ui-icon-docque:after { background-image: url("images/docQue.png"); background-size: 22px 22px; }
+.ui-icon-goumut:after { background-image: url("images/gouMut.png"); background-size: 22px 22px; }
+.ui-icon-jarcar:after { background-image: url("images/jarCar.png"); background-size: 22px 22px; }
+.ui-icon-jaresp:after { background-image: url("images/jarEsp.png"); background-size: 22px 22px; }
+.ui-icon-jarisa:after { background-image: url("images/jarIsa.png"); background-size: 22px 22px; }
+.ui-icon-kinjar:after { background-image: url("images/kinJar.png"); background-size: 22px 22px; }
+.ui-icon-queensparkcrese:after { background-image: url("images/queensParkCresE.png"); background-size: 22px 22px; }
+.ui-icon-quepor:after { background-image: url("images/quePor.png"); background-size: 22px 22px; }
+.ui-icon-simdun:after { background-image: url("images/simDun.png"); background-size: 22px 22px; }
+.ui-icon-stgblo:after { background-image: url("images/stgBlo.png"); background-size: 22px 22px; }
+.ui-icon-unicol:after { background-image: url("images/uniCol.png"); background-size: 22px 22px; }
+.ui-icon-widade:after { background-image: url("images/widAde.png"); background-size: 22px 22px; }
+
+#individual{
+    width: 100%;
+    height: 100%;
+    
+}
+
+#map {
+    width: 100%;
+    height: 80%;
+    padding: 0;
+}
+
+#myChart {
+  height: 80% !important;
+  width: 80% !important;
+}
+
+#thumb {
+  width: 99%;
+}
+
+.studentImage {
+    width: 50px;
+    height:50px;
+}
+

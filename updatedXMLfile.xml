@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<bikeshare>
+	<stationBeanList>
+		<id>80</id>
+		<stationName city="Toronto">Bay St / Wellesley St W</stationName>
+		<availableDocks>30</availableDocks>
+		<totalDocks>33</totalDocks>
+		<latitude>43.664088</latitude>
+		<longitude>-79.387095</longitude>
+		<statusValue>In Service</statusValue>
+		<statusKey>1</statusKey>
+		<availableBikes>3</availableBikes>
+		<stationImg>bayWel.png</stationImg>
+	</stationBeanList>
+	<stationBeanList>
+		<id>1</id>
+		<stationName city="Toronto">Jarvis St / Carleton St</stationName>
+		<availableDocks>8</availableDocks>
+		<totalDocks>15</totalDocks>
+		<latitude>43.66207</latitude>
+		<longitude>-79.37617</longitude>
+		<statusValue>In Service</statusValue>
+		<statusKey>1</statusKey>
+		<availableBikes>7</availableBikes>
+		<stationImg>jarCar.png</stationImg>
+	</stationBeanList>
+	<stationBeanList>
+		<id>6</id>
+		<stationName city="Toronto">Gould St / Mutual St</stationName>
+		<availableDocks>15</availableDocks>
+		<totalDocks>30</totalDocks>
+		<latitude>43.6582</latitude>
+		<longitude>-79.3768</longitude>
+		<statusValue>In Service</statusValue>
+		<statusKey>1</statusKey>
+		<availableBikes>15</availableBikes>
+		<stationImg>gouMut.png</stationImg>
+	</stationBeanList>
+	<stationBeanList>
+		<id>7</id>
+		<stationName city="Toronto">St George St / Bloor St W</stationName>
+		<availableDocks>13</availableDocks>
+		<totalDocks>14</totalDocks>
+		<latitude>43.667333</latitude>
+		<longitude>-79.399429</longitude>
+		<statusValue>In Service</statusValue>
+		<statusKey>1</statusKey>
+		<availableBikes>1</availableBikes>
+		<stationImg>stgBlo.png</stationImg>
+	</stationBeanList>
+	<stationBeanList>
+		<id>20</id>
+		<stationName city="Toronto">Jarvis St / Isabella St</stationName>
+		<availableDocks>18</availableDocks>
+		<totalDocks>22</totalDocks>
+		<latitude>43.669192</latitude>
+		<longitude>-79.379128</longitude>
+		<statusValue>In Service</statusValue>
+		<statusKey>1</statusKey>
+		<availableBikes>4</availableBikes>
+		<stationImg>jarIsa.png</stationImg>
+	</stationBeanList>
+	<stationBeanList>
+		<id>24</id>
+		<stationName city="Toronto">Simcoe St / Dundas St W</stationName>
+		<availableDocks>4</availableDocks>
+		<totalDocks>26</totalDocks>
+		<latitude>43.653743</latitude>
+		<longitude>-79.38882</longitude>
+		<statusValue>In Service</statusValue>
+		<statusKey>1</statusKey>
+		<availableBikes>22</availableBikes>
+		<stationImg>simDun.png</stationImg>
+	</stationBeanList>
+	<stationBeanList>
+		<id>28</id>
+		<stationName city="Toronto">Bond St / Queen St E</stationName>
+		<availableDocks>1</availableDocks>
+		<totalDocks>10</totalDocks>
+		<latitude>43.653236</latitude>
+		<longitude>-79.376716</longitude>
+		<statusValue>In Service</statusValue>
+		<statusKey>1</statusKey>
+		<availableBikes>9</availableBikes>
+		<stationImg>bonQue.png</stationImg>
+	</stationBeanList>
+	<stationBeanList>
+		<id>71</id>
+		<stationName city="Toronto">Bathurst / Queens Quay (Island Airport)</stationName>
+		<availableDocks>20</availableDocks>
+		<totalDocks>22</totalDocks>
+		<latitude>43.6354</latitude>
+		<longitude>-79.3984</longitude>
+		<statusValue>In Service</statusValue>
+		<statusKey>1</statusKey>
+		<availableBikes>2</availableBikes>
+		<stationImg>batQue.png</stationImg>
+	</stationBeanList>
+	<stationBeanList>
+		<id>42</id>
+		<stationName city="Toronto">25 York St (ACC/Union Station South)</stationName>
+		<availableDocks>5</availableDocks>
+		<totalDocks>10</totalDocks>
+		<latitude>43.643667</latitude>
+		<longitude>-79.380414</longitude>
+		<statusValue>In Service</statusValue>
+		<statusKey>1</statusKey>
+		<availableBikes>5</availableBikes>
+		<stationImg>25yorkst.png</stationImg>
+	</stationBeanList>
+	<stationBeanList>
+		<id>40</id>
+		<stationName city="Toronto">Dockside Dr / Queens Quay E.</stationName>
+		<availableDocks>17</availableDocks>
+		<totalDocks>26</totalDocks>
+		<latitude>43.644272</latitude>
+		<longitude>-79.367766</longitude>
+		<statusValue>In Service</statusValue>
+		<statusKey>1</statusKey>
+		<availableBikes>9</availableBikes>
+		<stationImg>docQue.png</stationImg>
+	</stationBeanList>
+	<stationBeanList>
+		<id>52</id>
+		<stationName city="Toronto">Lower Jarvis St / The Esplanade</stationName>
+		<availableDocks>12</availableDocks>
+		<totalDocks>14</totalDocks>
+		<latitude>43.647992</latitude>
+		<longitude>-79.370907</longitude>
+		<statusValue>In Service</statusValue>
+		<statusKey>1</statusKey>
+		<availableBikes>2</availableBikes>
+		<stationImg>jarEsp.png</stationImg>
+	</stationBeanList>
+	<stationBeanList>
+		<id>83</id>
+		<stationName city="Toronto">Queens Park Cres E</stationName>
+		<availableDocks>15</availableDocks>
+		<totalDocks>19</totalDocks>
+		<latitude>43.663957</latitude>
+		<longitude>-79.390884</longitude>
+		<statusValue>In Service</statusValue>
+		<statusKey>1</statusKey>
+		<availableBikes>4</availableBikes>
+		<stationImg>queensParkCresE.png</stationImg>
+	</stationBeanList>
+	<stationBeanList>
+		<id>69</id>
+		<stationName city="Toronto">University Ave / College St</stationName>
+		<availableDocks>6</availableDocks>
+		<totalDocks>10</totalDocks>
+		<latitude>43.659226</latitude>
+		<longitude>-79.390213</longitude>
+		<statusValue>In Service</statusValue>
+		<statusKey>1</statusKey>
+		<availableBikes>4</availableBikes>
+		<stationImg>uniCol.png</stationImg>
+	</stationBeanList>
+	<stationBeanList>
+		<id>65</id>
+		<stationName city="Toronto">Queen St / Portland St</stationName>
+		<availableDocks>4</availableDocks>
+		<totalDocks>7</totalDocks>
+		<latitude>43.6476</latitude>
+		<longitude>-79.4015</longitude>
+		<statusValue>In Service</statusValue>
+		<statusKey>1</statusKey>
+		<availableBikes>3</availableBikes>
+		<stationImg>quePor.png</stationImg>
+	</stationBeanList>
+	<stationBeanList>
+		<id>76</id>
+		<stationName city="Toronto">King St E / Jarvis St</stationName>
+		<availableDocks>6</availableDocks>
+		<totalDocks>11</totalDocks>
+		<latitude>43.650325</latitude>
+		<longitude>-79.372287</longitude>
+		<statusValue>In Service</statusValue>
+		<statusKey>1</statusKey>
+		<availableBikes>5</availableBikes>
+		<stationImg>kinJar.png</stationImg>
+	</stationBeanList>
+	<stationBeanList>
+		<id>49</id>
+		<stationName city="Toronto">Widmer St / Adelaide St </stationName>
+		<availableDocks>4</availableDocks>
+		<totalDocks>19</totalDocks>
+		<latitude>43.647145</latitude>
+		<longitude>-79.391479</longitude>
+		<statusValue>In Service</statusValue>
+		<statusKey>1</statusKey>
+		<availableBikes>15</availableBikes>
+		<stationImg>widAde.png</stationImg>
+	</stationBeanList>
+</bikeshare>
